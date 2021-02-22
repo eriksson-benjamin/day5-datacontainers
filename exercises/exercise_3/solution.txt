@@ -1,5 +1,6 @@
 a)
 Filled in solution in food_facts.ipynb
+Food facts file was too large to keep on GitHub.
 
 b)
 Filled in solution in army.ipynb
