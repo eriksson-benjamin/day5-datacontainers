@@ -1,0 +1,2 @@
+Scipy exercises are found in exercise_scipy.py.
+Statistics exercises are found in exercise_statistics.py.
