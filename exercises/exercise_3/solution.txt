@@ -1,0 +1,8 @@
+a)
+Filled in solution in food_facts.ipynb
+
+b)
+Filled in solution in army.ipynb
+
+c)
+Filled in solution in alcohol.ipynb
